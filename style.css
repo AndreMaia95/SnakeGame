@@ -1,0 +1,30 @@
+*{  
+    margin-top: 50px;
+    text-align: center;
+    background-color: #292929;
+}
+
+#gameContainer{
+    text-align: center;
+}
+
+#gameBoard{
+    border: 2px solid #ffffff;
+}
+
+#scoreText{
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    color: #ffffff;
+}
+
+#resetBtn{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 2px solid #ffffff;
+    border-radius: 15px;
+    cursor: pointer;
+    color: #ffffff;
+}
